@@ -1,6 +1,12 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
+// Change these to configure the data generated.
+const studentCount = 250; // Change as needed
+const clinicalCount = 20; // Change as needed
+const minSlots = 5;
+const maxSlots = 15;
+
 // Generate random data
 function generateRandomData(studentCount, clinicalCount, minSlots, maxSlots) {
     const students = [];
@@ -50,12 +56,6 @@ function writeDataToJson(students, clinicals) {
     fs.writeFileSync(studentsFilePath, JSON.stringify(students, null, 2));
     fs.writeFileSync(clinicalsFilePath, JSON.stringify(clinicals, null, 2));
 }
-
-// Generate, ensure sufficient slots, and write data
-const studentCount = 250; // Change as needed
-const clinicalCount = 20; // Change as needed
-const minSlots = 5;
-const maxSlots = 15;
 
 let { students, clinicals } = generateRandomData(studentCount, clinicalCount, minSlots, maxSlots);
 clinicals = ensureSufficientSlots(students, clinicals);

@@ -58,7 +58,7 @@ describe("sample test", () => {
         }
     });
 
-    it("should assign too many students to any clinical", () => {
+    it("shouldn't assign too many students to any clinical", () => {
         const studentModels = mapJsonToStudentModel(students);
         const clinicalModels = mapJsonToClinicalModel(clinicals);
         const matcher = new Matcher(studentModels, clinicalModels);
