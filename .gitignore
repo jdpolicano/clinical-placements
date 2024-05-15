@@ -10,3 +10,5 @@ build
 .DS_Store
 # Ignore the .env file
 .env
+# Ignore test data
+tests/*.json
