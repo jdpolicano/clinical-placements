@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Alice",
+        "preferences": [
+            "Clinical1",
+            "Clinical2",
+            "Clinical3"
+        ]
+    },
+    {
+        "name": "Bob",
+        "preferences": [
+            "Clinical2",
+            "Clinical3",
+            "Clinical1"
+        ]
+    },
+    {
+        "name": "Charlie",
+        "preferences": [
+            "Clinical1",
+            "Clinical3",
+            "Clinical2"
+        ]
+    },
+    {
+        "name": "Jane",
+        "preferences": [
+            "Clinical3",
+            "Clinical1",
+            "Clinical2"
+        ]
+    },
+    {
+        "name": "Chuck",
+        "preferences": [
+            "Clinical1",
+            "Clinical3",
+            "Clinical2"
+        ]
+    },
+    {
+        "name": "Jake",
+        "preferences": [
+            "Clinical1",
+            "Clinical3",
+            "Clinical2"
+        ]
+    },
+    {
+        "name": "Chirstina",
+        "preferences": [
+            "Clinical2",
+            "Clinical1",
+            "Clinical3"
+        ]
+    }
+]

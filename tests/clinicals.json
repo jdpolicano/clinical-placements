@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Clinical0",
+    "slots": 12
+  },
+  {
+    "name": "Clinical1",
+    "slots": 12
+  },
+  {
+    "name": "Clinical2",
+    "slots": 9
+  },
+  {
+    "name": "Clinical3",
+    "slots": 9
+  },
+  {
+    "name": "Clinical4",
+    "slots": 16
+  },
+  {
+    "name": "Clinical5",
+    "slots": 14
+  },
+  {
+    "name": "Clinical6",
+    "slots": 17
+  },
+  {
+    "name": "Clinical7",
+    "slots": 14
+  },
+  {
+    "name": "Clinical8",
+    "slots": 16
+  },
+  {
+    "name": "Clinical9",
+    "slots": 11
+  },
+  {
+    "name": "Clinical10",
+    "slots": 17
+  },
+  {
+    "name": "Clinical11",
+    "slots": 12
+  },
+  {
+    "name": "Clinical12",
+    "slots": 14
+  },
+  {
+    "name": "Clinical13",
+    "slots": 10
+  },
+  {
+    "name": "Clinical14",
+    "slots": 17
+  },
+  {
+    "name": "Clinical15",
+    "slots": 16
+  },
+  {
+    "name": "Clinical16",
+    "slots": 7
+  },
+  {
+    "name": "Clinical17",
+    "slots": 9
+  },
+  {
+    "name": "Clinical18",
+    "slots": 8
+  },
+  {
+    "name": "Clinical19",
+    "slots": 10
+  }
+]

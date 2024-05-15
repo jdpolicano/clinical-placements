@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Clinical1",
+        "slots": 2
+    },
+    {
+        "name": "Clinical2",
+        "slots": 3
+    },
+    {
+        "name": "Clinical3",
+        "slots": 2
+    },
+    {
+        "name": "Clinical4",
+        "slots": 2
+    }
+]
